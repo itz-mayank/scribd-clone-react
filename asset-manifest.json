@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/scribd-clone-react/static/css/main.6a26021c.chunk.css",
+    "main.js": "/scribd-clone-react/static/js/main.6c1607c9.chunk.js",
+    "main.js.map": "/scribd-clone-react/static/js/main.6c1607c9.chunk.js.map",
+    "runtime-main.js": "/scribd-clone-react/static/js/runtime-main.9a35e52f.js",
+    "runtime-main.js.map": "/scribd-clone-react/static/js/runtime-main.9a35e52f.js.map",
+    "static/js/2.c4cb30c8.chunk.js": "/scribd-clone-react/static/js/2.c4cb30c8.chunk.js",
+    "static/js/2.c4cb30c8.chunk.js.map": "/scribd-clone-react/static/js/2.c4cb30c8.chunk.js.map",
+    "index.html": "/scribd-clone-react/index.html",
+    "static/css/main.6a26021c.chunk.css.map": "/scribd-clone-react/static/css/main.6a26021c.chunk.css.map",
+    "static/js/2.c4cb30c8.chunk.js.LICENSE.txt": "/scribd-clone-react/static/js/2.c4cb30c8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/scribd-clone-react/static/media/950_en@1x.b831dd70.b831dd70.b831dd70.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a35e52f.js",
+    "static/js/2.c4cb30c8.chunk.js",
+    "static/css/main.6a26021c.chunk.css",
+    "static/js/main.6c1607c9.chunk.js"
+  ]
+}
